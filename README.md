@@ -1,11 +1,11 @@
-# 📊 Social Media Trend & Sentiment Analysis Dashboard
+#  Social Media Trend & Sentiment Analysis Dashboard
 
-## 🔍 Overview
+##  Overview
 This project analyzes trending topics and sentiment on social media platforms (Twitter, Instagram, LinkedIn) using a prepared dataset. It leverages Python and visualization libraries to identify user interests, trending hashtags, and sentiment shifts across platforms.
 
 ---
 
-## 🎯 Objectives
+##  Objectives
 - Identify most frequent hashtags
 - Analyze sentiment distribution
 - Compare sentiment across platforms
@@ -14,7 +14,7 @@ This project analyzes trending topics and sentiment on social media platforms (T
 
 ---
 
-## 🧰 Tools & Libraries
+##  Tools & Libraries
 
 | Tool/Library  | Purpose                         |
 |---------------|----------------------------------|
@@ -26,7 +26,7 @@ This project analyzes trending topics and sentiment on social media platforms (T
 
 ---
 
-## 📁 Files
+##  Files
 
 | File Name                  | Description                                  |
 |----------------------------|----------------------------------------------|
@@ -36,7 +36,7 @@ This project analyzes trending topics and sentiment on social media platforms (T
 
 ---
 
-## 📊 Key Visualizations
+##  Key Visualizations
 
 - **Top 10 Hashtags** — Frequency of most used tags
 - **Sentiment Distribution** — Positive, Negative, Neutral across all data
@@ -46,7 +46,7 @@ This project analyzes trending topics and sentiment on social media platforms (T
 
 ---
 
-## 🚀 How to Run
+##  How to Run
 
 1. Install required libraries:
    ```bash
@@ -59,7 +59,7 @@ This project analyzes trending topics and sentiment on social media platforms (T
 
 ---
 
-## 📌 Skills Demonstrated
+##  Skills Demonstrated
 - Web data analysis
 - Hashtag extraction
 - Sentiment and platform-based comparisons
@@ -67,7 +67,7 @@ This project analyzes trending topics and sentiment on social media platforms (T
 
 ---
 
-## 📬 Author
+##  Author
 
 **Ray**  
 Data & Web Analyst  
