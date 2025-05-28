@@ -77,9 +77,9 @@ onyangoraybeckham@gmail.com
 
 📊 **Dashboard Preview:**
 
-![Dashboard Preview](SOCIAL MEDIA TREND ANALYSIS DASHBOARD.png)
+![Dashboard Preview](SOCIAL_MEDIA_TREND_ANALYSIS_DASHBOARD.png)
 
 This Excel dashboard shows sales trends, regional performance, and top products.
 
-🔗 Download the Excel file: [SOCIAL MEDIA TREND ANALYSIS DASHBOARD.xlsx](SOCIAL MEDIA TREND ANALYSIS DASHBOARD.xlsx)
+🔗 Download the Excel file: [SOCIAL_MEDIA_TREND_ANALYSIS_DASHBOARD.xlsx](SOCIAL_MEDIA_TREND_ANALYSIS_DASHBOARD.xlsx)
 
