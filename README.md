@@ -77,7 +77,7 @@ onyangoraybeckham@gmail.com
 
 📊 **Dashboard Preview:**
 
-![Dashboard Preview](DASHBOARD.png)
+![Dashboard Preview](DASHBOARD.PNG)
 
 This Excel dashboard shows sales trends, regional performance, and top products.
 
