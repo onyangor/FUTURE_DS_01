@@ -77,7 +77,7 @@ onyangoraybeckham@gmail.com
 
 📊 **Dashboard Preview:**
 
-![Dashboard Preview](SOCIAL_MEDIA_TREND_ANALYSIS_DASHBOARD.png)
+![Dashboard Preview](DASHBOARD.png)
 
 This Excel dashboard shows sales trends, regional performance, and top products.
 
