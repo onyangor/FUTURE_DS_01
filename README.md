@@ -72,3 +72,14 @@ This project analyzes trending topics and sentiment on social media platforms (T
 **Ray**  
 Data & Web Analyst  
 onyangoraybeckham@gmail.com
+
+# Excel Dashboard
+
+📊 **Dashboard Preview:**
+
+![Dashboard Preview](SOCIAL MEDIA TREND ANALYSIS DASHBOARD.png)
+
+This Excel dashboard shows sales trends, regional performance, and top products.
+
+🔗 Download the Excel file: [SOCIAL MEDIA TREND ANALYSIS DASHBOARD.xlsx](SOCIAL MEDIA TREND ANALYSIS DASHBOARD.xlsx)
+
